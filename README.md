@@ -25,7 +25,7 @@
         - [Time On Task](#time-on-task)
         - [Subjective Measures](#subjective-measures)
         - [Likes, Dislikes and Recommendations](#likes-dislikes-and-recommendations)    
-    - [User Instructions of Most Common Tasks](#user-instructions-of-most-common-tasks)
+   - [User Instructions of Most Common Tasks](#user-instructions-of-most-common-tasks)
 
 ## Project Report
 

@@ -28,7 +28,7 @@
     - [User Instructions of Most Common Tasks](#user-instructions-of-most-common-tasks)
 
 ## Project Report
----
+
 ### Motivation and Description
 As part of my training I was given the task to improve the existing website of Nitomani School. At that time the website had a few pages and many features missing which I though need to be added in the site. As I was discussing with the school owner, he was suggesting to contribute to the site as a designer as well as for search engine optimization. I was also given the task to improve on the functionality of the features and add my own flavor to the site as a graphic designer from their brand and business theme.
 
@@ -128,7 +128,7 @@ It was also a good experience to work in a agile set up and get things done in a
 I tried to make the website look as modern as possible and the performance as smooth as it could possibly be. Regarding the platform it was hard at times to work online as the server is not setup locally. Sudden database error was a huge pain to deal with at times. And sometimes depending on the internet speed updates done might take time to be applied and you might get certain data lost at times if their is any connection error. As the website contains a lot of pages and media files, it lags a bit in terms of loading. In this case some other platform could have been a better choice. After I was done with the project, some changes made to the website later on doesn't quite suite my taste. But overall I was able to pull off on time as much as possible and I am happy with the outcome.
 
 ## Usability Test Plan
----
+
 ### Elements of a Test Plan
 
 - ###### Scope
@@ -182,7 +182,7 @@ Most of the time it was positive. I got most error in case of the platform havin
 
 
 ## User Instructions of Most Common Tasks
----
+
 - ##### Using chat bot
   - After entering the site user can see a chat bot which is a messenger to interact with the person who is in charge with communication with the client.
   - You enter your desired message or information that you need to convey in the person in charge is online.
